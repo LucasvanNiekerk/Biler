@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace Biler
 {
-    class Program
+    class Car
     {
-        static void Main(string[] args)
-        {
-            l
-        }
     }
 }
